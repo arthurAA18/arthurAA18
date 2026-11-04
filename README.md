@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Arthur Andrade 👋
 
-<!--
-**arthurAA18/arthurAA18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na UniSãoJosé.
 
-Here are some ideas to get you started:
+💻 Interessado em Infraestrutura de TI, Redes de Computadores, Suporte Técnico e Segurança da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Conhecimentos
+- Redes de Computadores
+- Cisco Packet Tracer
+- IPv4, TCP/IP e VLANs
+- DHCP e DNS
+- Hardware e Sistemas Operacionais
+- Microsoft Excel e Power BI
+
+### 🚀 Projetos
+
+**Andrade Tech Solutions**
+
+Projeto prático de infraestrutura de redes corporativas desenvolvido no Cisco Packet Tracer, envolvendo segmentação por VLANs, roteamento, serviços de rede e segurança.
+
+### 📚 Formação
+Tecnólogo em Sistemas de Informação – UniSãoJosé.
+
+### 📜 Cursos e certificações
+- Fundamentos de Hardware de Computadores – Cisco Networking Academy
+- Introdução à Cibersegurança – Cisco Networking Academy
+- Conceitos Básicos de Redes – Cisco Networking Academy
+- Introdução à IoT e à Transformação Digital – Cisco Networking Academy
+- Introdução à IA Moderna – Cisco Networking Academy
